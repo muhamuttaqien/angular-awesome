@@ -1,6 +1,6 @@
 # angular-awesome
 
-angular-awesome apps for my first javascript book
+angular-awesome SPA (Single Page Application) for my first javascript book
 
 JavaScript is Totally Awesome.
 
