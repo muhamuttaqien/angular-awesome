@@ -18,6 +18,7 @@ var gulp = require('gulp'),
 // configure all jshint task
 
 // clean
+gulp.task();
 
 // default
 
