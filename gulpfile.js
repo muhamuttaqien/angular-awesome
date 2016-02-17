@@ -25,7 +25,7 @@ var gulp = require('gulp'),
 	htmlmin = require('gulp-htmlmin');
 
 /**
- * configure all jshint task
+ * configure all gulp task
  */
 
 // default
