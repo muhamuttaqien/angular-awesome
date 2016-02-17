@@ -18,4 +18,4 @@ $ bower install <br>
 $ npm install <br>
 $ gulp or gulp watch
 
-It will be published on march.
+It will be published on march 2016.
