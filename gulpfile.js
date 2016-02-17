@@ -1,8 +1,15 @@
-// load all the gulp plugins
+/**
+ * Created by Muh. Angga Muttaqien on 17-Feb-16.
+ */
+
+
+/**
+ * load all the gulp plugins
+ */
 var gulp = require('gulp'),
 	minifycss = require('gulp-minify-css'),
 	jshint = require('gulp-jshint'),
-	stylish = require('gulp-stylish'),
+	stylish = require('jshint-stylish'),
 	uglify = require('gulp-uglify'),
 	usemin = require('gulp-usemin'),
 	imagemin = require('gulp-imagemin'),
@@ -12,24 +19,93 @@ var gulp = require('gulp'),
 	cache = require('gulp-cache'),
 	changed = require('gulp-changed'),
 	rev = require('gulp-rev'),
-	browserSync = require('browser-sync'),
-	del = require('del');	
-	
-// configure all jshint task
+	browserSync = require('browser-sync').create(),
+	del = require('del'),
+	ngannotate = require('gulp-ng-annotate'),
+	htmlmin = require('gulp-htmlmin');
 
-// clean
-gulp.task();
+/**
+ * configure all jshint task
+ */
 
 // default
-
-// htmlmin
+gulp.task('default', function(){
+	gulp.start('usemin', 'htmlmin', 'imagemin', 'copyfonts');
+});
 
 // usemin
+gulp.task('usemin',['jshint'], function(){
+	return gulp.src(['./app/index.html'])
+		.pipe(usemin({
+			css:[minifycss(),rev()],
+			js: [ngannotate(), uglify(),rev()]
+		}))
+		.pipe(gulp.dest('dist/'))
+		.pipe(notify({ message: 'usemin task is completed!' }));
+});
 
-// images
+// htmlmin
+gulp.task('htmlmin', function(){
+	return gulp.src('./app/views/*.html')
+		.pipe(htmlmin({collapseWhitespace: true}))
+		.pipe(gulp.dest('dist/views/'));
+});
 
-// fonts
+// imagemin
+gulp.task('imagemin', function(){
+	return del(['dist/images']), gulp.src(['./app/images/*'])
+		.pipe(imagemin({ optimizationLevel: 3, progressive: true, interlaced: true }))
+		.pipe(gulp.dest('dist/images'))
+		.pipe(notify({ message: 'imagemin task is completed!' }));
+});
 
-// watch 
+// copyfonts
+gulp.task('copyfonts', ['clean'], function(){
+	gulp.src('./bower_components/font-awesome/fonts/**/*.{ttf,woff,eof,svg}*')
+		.pipe(gulp.dest('./dist/fonts'))
+		.pipe(notify({ message: 'copyfonts task is completed!' }));
+	gulp.src('./bower_components/bootstrap/dist/fonts/**/*.{ttf,woff,eof,svg}*')
+		.pipe(gulp.dest('./dist/fonts'))
+		.pipe(notify({ message: 'copyfonts task is completed!' }));
+});
 
-// browser-sync
+// jshint
+gulp.task('jshint', function(){
+	return gulp.src('app/scripts/**/*.js')
+		.pipe(jshint())
+		.pipe(jshint.reporter(stylish));
+});
+
+// clean
+gulp.task('clean', function(){
+	return del(['dist']);
+});
+
+// watch
+gulp.task('watch', ['browser-sync'], function(){
+	// watch .js files
+	gulp.watch('{app/scripts/**/*.js,app/styles/**/*.css,app/**/*.html}', ['usemin']);
+	// watch image files
+	gulp.watch('app/images/**/*', ['imagemin']);
+});
+
+// browser-sync (still error)
+gulp.task('browser-sync', ['default'], function(){
+	var files = [
+		'app/**/*.html',
+		'app/styles/**/*.css',
+		'app/images/**/*.png',
+		'app/scripts/**/*.js',
+		'dist/**/*'
+	];
+
+	browserSync.init(files, {
+		server: {
+			baseDir: "dist",
+			index: "index.html"
+		}
+	});
+
+	// watch any files in dist/, reload on change
+	gulp.watch(['dist/**']).on('change', browserSync.reload);
+});
