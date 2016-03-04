@@ -37,8 +37,9 @@ gulp.task('default', function(){
 gulp.task('usemin',['jshint'], function(){
 	return gulp.src(['./app/index.html'])
 		.pipe(usemin({
-			css:[minifycss(),rev()],
-			js: [ngannotate(), uglify(),rev()]
+			css:[minifycss(), rev()],
+			jsapp: [ngannotate(), uglify(),rev()],
+			jsvendor: [ngannotate(), uglify(),rev()]
 		}))
 		.pipe(gulp.dest('dist/'))
 		.pipe(notify({ message: 'usemin task is completed!' }));
