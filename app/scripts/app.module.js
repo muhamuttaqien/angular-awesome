@@ -5,8 +5,7 @@
 
 /**
  * Main module of the application
- *
- * **/
+ */
 
 (function(){
 
