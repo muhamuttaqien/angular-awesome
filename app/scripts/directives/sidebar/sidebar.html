@@ -1,0 +1,15 @@
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse">
+        <ul class="nav" id="side-menu">
+            <sidebar-search></sidebar-search>
+            <li ng-click="selectedMenu = 'dashboard'">
+                <a ng-class="{active: selectedMenu == 'dashboard' }" href="#/dashboard"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
+            </li>
+            <li ng-click="selectedMenu = 'forms'">
+                <a ng-class="{active: selectedMenu == 'forms' }" href="#/forms"><i class="fa fa-edit fa-fw"></i> Forms</a>
+            </li>
+        </ul>
+    </div>
+    <!-- /.sidebar-collapse -->
+</div>
+<!-- /.navbar-static-side -->

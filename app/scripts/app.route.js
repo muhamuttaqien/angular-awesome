@@ -17,15 +17,17 @@
 
             var routes, setRoutes;
 
-            routes = [];
+            routes = ['dashboard', 'forms', 'pages/404'];
 
             setRoutes = function(route){
                 var path, config;
 
                 path = '/' + route; // cannot insert id
                 config = {
-                    templateUrl: 'views/' + route + '.html'
-                }; // cannot use inline controller route
+                    templateUrl: 'views/' + route + '.html',
+                    controller: route + 'Ctrl',
+                    controllerAs: route
+                };
 
                 $routeProvider.when(path, config);
                 return $routeProvider;
@@ -37,8 +39,8 @@
 
             $routeProvider
                 .when('/', { redirectTo: '/dashboard' })
-                .when('/404', { redirectTo: 'views/pages/404.html' })
+                .when('/404', { templateUrl: 'views/pages/404.html' })
                 .otherwise({ redirectTo: '/404' });
 
         }]);
-});
+})();
