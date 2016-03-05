@@ -11,7 +11,7 @@
         .factory('Server', ['$http', function($http){
 
             var self = this;
-            self.base_path = base_path;
+            self.base_path = base_path; // base_path (?)
 
             return {
 
