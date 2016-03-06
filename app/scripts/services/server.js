@@ -8,10 +8,10 @@
 
     angular
         .module('app')
-        .factory('Server', ['$http', function($http){
+        .factory('Server', ['$http', '$q', function($http, $q){
 
             var self = this;
-            self.base_path = base_path; // base_path (?)
+            self.base_path = base_path; //"http://localhost:9090/";
 
             return {
 

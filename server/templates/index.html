@@ -1,0 +1,30 @@
+{% extends 'layout.html' %}
+
+{% block title %} Index Page {% endblock %}
+
+{% block content %}
+    <h3>{{ title }}</h3>
+
+    <form method="POST">
+        <label>Name </label><input type="text" name="name" /><br/><br/>
+        <label>Alamat </label><textarea name="address"></textarea><br/><br/>
+        <input type="submit" value="Save" />
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>No. Induk</th>
+                <th>Nama</th>
+                <th>Alamat</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Data Induk</td>
+                <td>Data Nama</td>
+                <td>Data Alamat</td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}
