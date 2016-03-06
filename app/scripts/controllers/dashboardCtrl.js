@@ -13,7 +13,7 @@ angular
         self.init = function(){
             Server.getDataFromServer('select')
                 .then(function(response){
-                    self.getData = response;
+                        self.getData = response;
                 });
         };
         self.init();

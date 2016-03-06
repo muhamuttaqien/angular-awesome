@@ -36,22 +36,41 @@ router.addRoute('/select', function(req, res){
     connection.query("SELECT * FROM mahasiswa", function(err, rows, field){
         if(err) throw err;
 
-        res.writeHead(200, {"Content-Type" : "text/plain"});
-        res.end(JSON.stringify(rows));
+        var html = view.compileFile('./templates/index.html')({
+            title   : "Data Mahasiswa",
+            data    : rows
+        });
+        res.writeHead(200, {"Content-Type" : "text/html"});
+        res.end(html);
     });
 });
 
 router.addRoute('/insert', function(req, res){
-    connection.query("INSERT INTO mahasiswa SET ?", {
-        no_induk: "112085",
-        nama: "Shofiyatul Fajri",
-        alamat: "Rogojampi"
-    }, function(err, field){
-        if(err) throw err;
 
-        res.writeHead(200, {"Content-Type" : "text/plain"});
-        res.end(field.affectedRows+ " Affected Rows");
-    });
+    if(req.method.toUpperCase() == "POST"){
+        // insert data process
+        var data_post = "";
+        req.on('data', function(chunck){
+            data_post += chunck;
+        });
+
+        req.on('end', function(){
+            data_post = qString.parse(data_post);
+            connection.query("INSERT INTO mahasiswa SET ?", data_post,
+                function(err, field){
+                    if(err) throw err;
+
+                    res.writeHead(302, {"Location" : "/select"});
+                    res.end();
+                    //res.end(field.affectedRows+ " Affected Rows");
+                }
+            );
+        });
+    } else {
+        var html = view.compileFile('./templates/form.html')();
+        res.writeHead(200, {"Content-Type" : "text/html"});
+        res.end(html);
+    }
 });
 
 router.addRoute('/update', function(req, res){

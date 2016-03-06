@@ -1,0 +1,29 @@
+{% extends 'layout.html' %}
+
+{% block title %} Index Page {% endblock %}
+
+{% block content %}
+<h3>Tambah Data</h3>
+
+<form method="POST">
+    <table width="400px">
+        <tr>
+            <td><label>No. Induk</label></td>
+            <td><input type="text" name="no_induk"></td>
+        </tr>
+        <tr>
+            <td><label>Nama </label></td>
+            <td><input type="text" name="nama"></td>
+        </tr>
+        <tr>
+            <td><label>Alamat </label></td>
+            <td><textarea name="alamat"></textarea></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Simpan"></td>
+        </tr>
+    </table>
+</form><br><br>
+
+{% endblock %}
