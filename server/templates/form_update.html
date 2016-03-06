@@ -3,21 +3,21 @@
 {% block title %} Index Page {% endblock %}
 
 {% block content %}
-<h3>Tambah Data</h3>
+<h3>Update Data</h3>
 
 <form method="POST">
     <table width="400px">
         <tr>
             <td><label>No. Induk</label></td>
-            <td><input type="text" name="no_induk"></td>
+            <td><input type="text" name="no_induk" value="{{ data.no_induk }}" disabled></td>
         </tr>
         <tr>
             <td><label>Nama </label></td>
-            <td><input type="text" name="nama"></td>
+            <td><input type="text" name="nama" value="{{ data.nama }}"></td>
         </tr>
         <tr>
             <td><label>Alamat </label></td>
-            <td><textarea name="alamat"></textarea></td>
+            <td><textarea name="alamat">{{ data.alamat }}</textarea></td>
         </tr>
         <tr>
             <td></td>
