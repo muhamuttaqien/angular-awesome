@@ -23,10 +23,7 @@ var connection = mysql.createConnection({
 });
 
 router.addRoute('/', function(req, res){
-    var html = view.compileFile('./templates/index.html')({
-        title : "Welcome in NodeJs Server",
-        qString: qString
-    });
+    var html = view.compileFile('../app/index.html')();
 
     res.writeHead(200, {"Content-Type" : "text/html"});
     res.end(html);
