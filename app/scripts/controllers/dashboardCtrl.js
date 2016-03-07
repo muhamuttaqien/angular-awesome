@@ -11,7 +11,7 @@ angular
         self.title = "Dashboard";
         self.state = "Controller is actived.";
         self.init = function(){
-            Server.getDataFromServer('select')
+            Server.getDataFromServer('api/mahasiswa')
                 .then(function(response){
                         self.getData = response;
                 });

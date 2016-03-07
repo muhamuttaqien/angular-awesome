@@ -11,7 +11,7 @@
         .factory('Server', ['$http', '$q', function($http, $q){
 
             var self = this;
-            self.base_path = "base_path"; //"http://localhost:9090/";
+            self.base_path = "http://localhost:9090/";
 
             return {
 

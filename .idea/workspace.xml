@@ -2,340 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3944c7-6d57-4924-934b-743ca17eef5b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Muh__Angga_Muttaqien.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\libraries\nodejs_node_modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\nodejs.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\database\mahasiswa.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\.bin\swig" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\.bin\swig.cmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\.bin\uglifyjs" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\.bin\uglifyjs.cmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\amdefine\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\amdefine\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\amdefine\amdefine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\amdefine\intercept.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\amdefine\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\async\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\async\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\async\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\async\lib\async.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\async\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\LICENCE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\bignumber.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\bignumber.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\bignumber.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\doc\API.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\bignumber.js\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\camelcase\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\camelcase\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\camelcase\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\camelcase\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\core-util-is\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\core-util-is\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\core-util-is\float.patch" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\core-util-is\lib\util.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\core-util-is\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\core-util-is\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\decamelize\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\decamelize\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\decamelize\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\decamelize\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\escape-string-regexp\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\escape-string-regexp\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\escape-string-regexp\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\escape-string-regexp\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\inherits\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\inherits\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\inherits\inherits.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\inherits\inherits_browser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\inherits\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\inherits\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\isarray\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\isarray\build\build.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\isarray\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\isarray\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\isarray\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\readme.markdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\bool.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\dash.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\default_bool.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\dotted.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\long.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\num.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\parse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\parse_modified.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\short.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\minimist\test\whitespace.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\Changes.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\License" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\Connection.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\ConnectionConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\Pool.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\PoolCluster.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\PoolConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\PoolConnection.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\PoolNamespace.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\PoolSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\Auth.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\PacketHeader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\PacketWriter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\Parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\Protocol.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\ResultSet.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\SqlString.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\constants\charsets.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\constants\client.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\constants\errors.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\constants\field_flags.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\constants\server_status.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\constants\ssl_profiles.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\constants\types.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ClientAuthenticationPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ComChangeUserPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ComPingPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ComQueryPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ComQuitPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ComStatisticsPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\EmptyPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\EofPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ErrorPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\Field.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\FieldPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\HandshakeInitializationPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\LocalDataFilePacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\OkPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\OldPasswordPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\ResultSetHeaderPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\RowDataPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\SSLRequestPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\StatisticsPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\UseOldPasswordPacket.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\packets\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\ChangeUser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\Handshake.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\Ping.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\Query.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\Quit.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\Sequence.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\Statistics.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\lib\protocol\sequences\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\mysql\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\bool.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\boolean_double.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\boolean_single.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\default_hash.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\default_singles.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\divide.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\line_count.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\line_count_options.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\line_count_wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\nonopt.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\reflect.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\short.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\string.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\usage-options.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\example\xup.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\readme.markdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\_.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\_\argv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\_\bin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\dash.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\parse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\parse_modified.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\short.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\usage.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\optimist\test\whitespace.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\float.patch" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\lib\_stream_duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\lib\_stream_passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\lib\_stream_readable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\lib\_stream_transform.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\lib\_stream_writable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\readable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\transform.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\readable-stream\writable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\dist\routes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\test\example.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\test\next.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\routes\test\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\.tern-port" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\Makefile.dryice.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\assert-shim.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\mini-require.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\prefix-source-map.jsm" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\prefix-utils.jsm" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\suffix-browser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\suffix-source-map.jsm" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\suffix-utils.jsm" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\test-prefix.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\build\test-suffix.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\array-set.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\base64-vlq.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\base64.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\binary-search.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\source-map-consumer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\source-map-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\source-node.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\lib\source-map\util.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\run-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-api.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-array-set.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-base64-vlq.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-base64.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-binary-search.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-dog-fooding.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-source-map-consumer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-source-map-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-source-node.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\test-util.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\source-map\test\source-map\util.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\string_decoder\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\string_decoder\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\string_decoder\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\string_decoder\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\string_decoder\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\bin\swig.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\dist\swig.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\dist\swig.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\dist\swig.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\dateformatter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\filters.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\lexer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\loaders\filesystem.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\loaders\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\loaders\memory.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\swig.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\autoescape.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\block.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\else.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\elseif.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\extends.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\filter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\for.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\if.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\import.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\include.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\macro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\parent.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\raw.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\set.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\tags\spaceless.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\lib\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\swig\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\bin\extract-props.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\bin\uglifyjs" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\ast.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\compress.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\mozilla-ast.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\output.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\parse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\propmangle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\scope.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\sourcemap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\transform.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\lib\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\tools\domprops.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\tools\node.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-js\tools\props.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-to-browserify\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-to-browserify\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-to-browserify\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-to-browserify\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-to-browserify\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-to-browserify\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\uglify-to-browserify\test\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\window-size\LICENSE-MIT" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\window-size\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\window-size\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\window-size\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\example\center.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\example\meat.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\test\break.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\test\idleness.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\wordwrap\test\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\completion.sh.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\lib\completion.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\lib\parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\lib\usage.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\lib\validation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\example\center.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\example\meat.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\test\break.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\test\idleness.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\node_modules\wordwrap\test\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\node_modules\yargs\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\templates\404.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\templates\form.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\templates\form_update.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\templates\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\templates\layout.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\app\server\templates\table.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\javascript-awesome\server\node_modules\minimist\example\parse.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/dashboard.html" afterPath="$PROJECT_DIR$/app/views/dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/dashboardCtrl.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/dashboardCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/services/server.js" afterPath="$PROJECT_DIR$/app/scripts/services/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-awesome.iws" />
@@ -362,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/app/scripts/services/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
               <folding>
                 <element signature="e#0#56#0" expanded="false" />
               </folding>
@@ -373,21 +44,75 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6365639">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboardCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/dashboardCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#56#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.846154">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="15" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30788803">
+              <caret line="234" column="38" selection-start-line="234" selection-start-column="38" selection-end-line="234" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -409,7 +134,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gulpfile_temp.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
@@ -429,9 +153,6 @@
         <option value="$PROJECT_DIR$/app/scripts/directives/sidebar/sidebar.js" />
         <option value="$PROJECT_DIR$/app/scripts/directives/sidebar/sidebar.html" />
         <option value="$PROJECT_DIR$/server/templates/layout.html" />
-        <option value="$PROJECT_DIR$/app/views/dashboard.html" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/dashboardCtrl.js" />
-        <option value="$PROJECT_DIR$/app/scripts/services/server.js" />
         <option value="$PROJECT_DIR$/server/templates/form.html" />
         <option value="$PROJECT_DIR$/server/templates/404.html" />
         <option value="$PROJECT_DIR$/server/templates/index.html" />
@@ -441,8 +162,12 @@
         <option value="$PROJECT_DIR$/app/server/server.js" />
         <option value="$PROJECT_DIR$/app/server.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/server/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/scripts/services/server.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/dashboardCtrl.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/app/views/dashboard.html" />
       </list>
     </option>
   </component>
@@ -555,6 +280,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -573,7 +338,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -635,7 +444,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/server">
+    <configuration default="false" name="server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <list size="2">
@@ -663,15 +472,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32636657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27009645" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27009645" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17019667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -718,6 +527,34 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -867,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37340152">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/app.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -965,10 +795,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.846154">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/dashboardCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
           <folding>
             <element signature="e#0#56#0" expanded="false" />
           </folding>
@@ -977,36 +861,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.6214952">
-          <caret line="216" column="17" selection-start-line="216" selection-start-column="17" selection-end-line="216" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#56#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.30788803">
+          <caret line="234" column="38" selection-start-line="234" selection-start-column="38" selection-end-line="234" selection-end-column="38" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6365639">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
