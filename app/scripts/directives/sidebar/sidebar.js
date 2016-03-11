@@ -16,6 +16,6 @@ angular
                 $scope.selectedMenu = 'dashboard';
 
             }
-        }
+        };
 
     }]);

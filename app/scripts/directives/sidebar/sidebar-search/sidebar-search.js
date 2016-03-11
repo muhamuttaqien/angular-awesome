@@ -16,6 +16,6 @@ angular
             controller: function($scope){
                 $scope.selectedMenu = 'home';
             }
-        }
+        };
 
     });

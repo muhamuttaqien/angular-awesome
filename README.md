@@ -18,6 +18,8 @@ Navigate to the app directory and run the following terminal commands :
 
 $ bower install <br>
 $ npm install <br>
-$ gulp or gulp watch
+$ run node server.js in your console <br>
+$ call to http://localhost:9090/ <br>
+$ gulp or gulp watch (optional)
 
 It will be published on march 2016.

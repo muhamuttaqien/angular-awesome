@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="app">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +8,9 @@
          content must come *after* these tags -->
     <title>angular-awesome apps</title>
 
-    <link rel="stylesheet" href="styles/app-d41d8cd98f.css"/>
+    <link rel="stylesheet" href="styles/app.css"/>
+
+    <link rel="stylesheet" href="styles/app.css"/>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -18,10 +20,24 @@
     <![endif]-->
 </head>
 <body>
-    <h1>Gulp is Success ! Alhamdulillah.</h1>
 
-    <script src="scripts/app-34b8032716.js"></script>
+    <div id="wrapper" ng-app="app">
+        <div ng-view></div>
+    </div>
 
-    <script src="scripts/vendor-9267b28db9.js"></script>
+    <script src="scripts/vendor-6bf3aa8b18.js"></script>
+
+    <script src="scripts/app-4abf3f3308.js"></script>
+
+    <!-- all controllers -->
+    <script src="scripts/controllers/dashboardCtrl.js"></script>
+    <script src="scripts/controllers/formsCtrl.js"></script>
+
+    <!-- all directives -->
+    <script src="scripts/directives/sidebar/sidebar.js"></script>
+    <script src="scripts/directives/sidebar/sidebar-search/sidebar-search.js"></script>
+
+    <!-- all services -->
+    <script src="scripts/services/server.js"></script>
 </body>
 </html>
