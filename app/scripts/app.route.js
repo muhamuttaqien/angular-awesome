@@ -17,7 +17,7 @@
 
             var routes, setRoutes;
 
-            routes = ['dashboard', 'forms', 'pages/404'];
+            routes = ['dashboard', 'dashboard/insert', 'forms', 'pages/404'];
 
             setRoutes = function(route){
                 var path, config;
