@@ -11,6 +11,7 @@ Bab 4. JS Library: JQuery <br>
 Bab 5. JS Framework: AngularJS <br>
 Bab 6. JS Server: NodeJS <br>
 Bab 7. JS Packager: Bower, NPM and GulpJS <br>
+Bab 8. JS Tester: Jasmine Behavior-Driven JS <br>
 Bab 8. Full Stack JS Development Project <br>
 
 Navigate to the app directory and run the following terminal commands :
