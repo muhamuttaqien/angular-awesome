@@ -11,12 +11,20 @@ angular
         self.title = "Dashboard";
         self.state = "Controller is actived.";
         self.init = function(){
-            Server.getDataFromServer('api/mahasiswa')
+            Server.get('api/mahasiswa')
                 .then(function(response){
                         self.getData = response;
+                        self.getCount = response.length;
                 });
         };
         self.init();
 
-
+        self.delete = function(id_mhs){
+            if(confirm('Apa anda yakin?')){
+                Server.delete(id_mhs)
+                    .then(function(response){
+                        self.getData = response;
+                    });
+            }
+        }
     }]);

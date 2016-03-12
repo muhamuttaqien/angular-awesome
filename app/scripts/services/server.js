@@ -19,7 +19,7 @@
                  * GET
                  */
 
-                getDataFromServer: function(){
+                get: function(){
                     var params = '';
                     for(var i = 0, x = arguments.length; i < x ; i++){
                         params += arguments[i]+ '/';
@@ -42,7 +42,7 @@
                  * POST
                  */
 
-                posDataToServer: function(){
+                post: function(){
                     var params = '',
                         data = {};
 
@@ -55,6 +55,22 @@
                     }
 
                     return $http.post(self.base_path + params, data)
+                        .then(function(response){
+                            if(response.data){
+                                return response.data;
+                            } else {
+                                return $q.reject(response.data);
+                            }
+                        }, function(response){
+                            return $q.reject(response.data);
+                        });
+                },
+
+                /**
+                 * DELETE
+                 */
+                delete: function(id_mhs){
+                    return $http.delete('api/mahasiswa/' + id_mhs)
                         .then(function(response){
                             if(response.data){
                                 return response.data;

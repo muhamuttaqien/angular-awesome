@@ -36,6 +36,6 @@ require('./server/routes.js')(app, connection);
 
 // listen port
 app.listen(port, function(){
-    console.log("nodeserver is running on port " + port);
+    console.log("Node Server is running on port " + port);
 });
 

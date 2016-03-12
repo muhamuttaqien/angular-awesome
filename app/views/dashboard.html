@@ -232,7 +232,7 @@
             <p> {{ dashboard.state }}</p>
             <table width="600px" class="table table-hover table-bordered">
                 <thead>
-                    <tr class="success">
+                    <tr class="btn-primary">
                         <td>No. Induk</td>
                         <td>Nama</td>
                         <td>Alamat</td>
@@ -244,12 +244,13 @@
                         <td>{{ v.no_induk }}</td>
                         <td>{{ v.nama }}</td>
                         <td>{{ v.alamat }}</td>
-                        <td><a href="#/dashboard/update/id" class="btn btn-xs btn-info">Update</a> | <a href="#/dashboard/delete/id" class="btn btn-xs btn-danger" onclick="return confirm('Apa anda yakin?')">Delete</a></td>
+                        <td><input type="button" class="btn btn-xs btn-info" value="Update"> | <input ng-click="dashboard.delete(v.no_induk)" type="button" class="btn btn-xs btn-danger" value="Delete"></td>
                     </tr>
                 </tbody>
             </table>
 
             <a href="#/dashboard/insert" class="btn btn-primary">Tambah Mahasiswa</a>
+            <span class="label label-warning pull-right">Jumlah Mahasiswa: {{ dashboard.getCount }} Anak</span>
         </div>
         <!-- /.col-lg-12 -->
     </div>
